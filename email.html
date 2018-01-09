@@ -432,7 +432,6 @@
     }
 
     div#topbar {
-        background: url(https://hpcer.github.io/hpcms18/hpcms2018_header.png);
         overflow: hidden;
         line-height: 2.0em;
     }
@@ -1626,12 +1625,20 @@
     }
 </style>
 <style>
+    header,main,#topbar,#container-main{
+        max-width: 800px;
+        margin: auto
+    }
     #topbar .top-heading,
     #topbar .top-date,
     #topbar a,
     #topbar .top-heading .title {
         color: white;
         text-align: center;
+    }
+    #topbar{
+        background-image: url(https://hpcer.github.io/hpcms18/hpcms2018_header.png);
+        background-color:#3460db
     }
 
     .top-heading .title {
@@ -1654,9 +1661,16 @@
         margin-top: 12px;
         color: #4285f4;
     }
+    #container-main article {
+        text-align: justify;
+    }
 
     .section-content .highlight {
         color: #ff9d44
+    }
+    .website{
+        color:#ff9800;
+        font-weight: bold;
     }
 </style>
 
@@ -1679,7 +1693,7 @@
                 <div class="col-md-12">
                     <h2>
                         The Second International Workshop on
-                        <a target="_blank" href="http://hpcms18.hpc.gensh.me">High Performance Computing for Advanced Modeling and Simulation in Nuclear Energy andEnvironmental
+                        <a target="_blank" href="http://hpcms18.hpc.gensh.me">High Performance Computing for Advanced Modeling and Simulation in Nuclear Energy and Environmental
                             Science
                         </a>(HPCMS2018)
                     </h2>
@@ -1706,7 +1720,7 @@
                                 <i>June 13, 2018 in Beijing, China.</i>
                             </u> Don't miss it!</p>
                         <p>&emsp;You can also visit our website:
-                            <a href="http://hpcms18.hpc.gensh.me">https://hpcms18.hpc.gensh.me</a> to know more about the details.</p>
+                            <a class="website" href="http://hpcms18.hpc.gensh.me">https://hpcms18.hpc.gensh.me</a> to know more about the details.</p>
                     </article>
                 </div>
                 <div class="col-sm-6">
