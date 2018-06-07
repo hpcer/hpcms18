@@ -4,7 +4,7 @@ import logo from './logo.svg';
 import './App.css';
 import './style.css';
 
-const md_source = "/content.md";
+const md_source = "content.md";
 
 class App extends Component {
   constructor(props) {
