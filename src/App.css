@@ -1,0 +1,55 @@
+#topbanner {
+  background: url("./hpcms2018_header.png");
+  line-height: 2.0em;
+  padding-top: 2px;
+}
+.delete{color: grey;}
+
+#topbanner .banner-heading,
+#topbanner .top-date,
+#topbanner a,
+#topbanner .banner-heading .title {
+  color: white;
+  text-align: center;
+}
+
+.banner-heading .title {
+  font-size: 26px;
+}
+
+/* in markdown */
+.markdown-render h3 {
+  background: #dff0d8;
+  padding: 16px;
+  margin: auto 0;
+}
+
+.markdown-render .section-content {
+  margin-top: 12px;
+  color: #4285f4;
+}
+
+.markdown-render .section-content .highlight {
+  color: #ff9d44
+}
+
+.markdown-render table td, .markdown-render table th {
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+.markdown-render .table-responsive{
+  overflow-x: auto;
+}
+/* end markdown */
+
+#page article {
+  text-align: justify;
+}
+
+#footer .container {
+  text-align: center;
+}
+
+#footer .container p {
+  max-width: 100%;
+}
