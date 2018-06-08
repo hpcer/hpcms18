@@ -65,24 +65,25 @@ The best papers are invited to submit extended version in **International Journa
 **Cluster Computing (IF2016: 2.040)** indexed in SCI.
 
 ### Workshop Program [¶](#program)
+Date: **June 12, 2018**
 Venue: **Room 303, Beijing International Convention Center No.8 Beichen Dong Road, Chaoyang District, Beijing**
 
 | Time          | Topic      | Speaker | Affiliation |
 | ------------- |:-----------|:-------:| :-----------|
 | 8:45 - 9:00   | **Sign In**   | 
 | 9:00 - 9:05   | Welcome Speech                                                                         | Xuebin Chi   | Chinese Academy of Sciences |
-| 9:05 - 9:35   | Presentation 1: Prospects for CVR-0: A Prototype of China Advanced Virtual Reactor     | An Wang      | University of Science and Technology Beijing |
-| 9:35 - 10:05	| Presentation 2: Virtual Reactors towards the ‘Exascale’ Supercomputing Era	         | Xianmeng Wang| University of Science and Technology Beijing |
+| 9:05 - 9:35   | Prospects for CVR-0: A Prototype of China Advanced Virtual Reactor     | An Wang      | University of Science and Technology Beijing |
+| 9:35 - 10:05	| Virtual Reactors towards the ‘Exascale’ Supercomputing Era	         | Xianmeng Wang| University of Science and Technology Beijing |
 | 10:05 - 10:20	| **Break**    |
-| 10:20 - 10:45	| Presentation 3: Diffusion mechanism of small Helium-vacancy clusters in BCC Fe and Fe-10%Cr alloy                 | Xinfu He | China Institute of Atomic Energy |
-| 10:45 -11:10	| Presentation 4: Effect of Ni and Mn on the Interaction of an Edge Dislocation with Cu-rich Precipitates in Bcc Fe	| Dongjie Wang | China Institute of Atomic Energy |
-| 11:10 - 11:35	| Presentation 5: The performance test and optimization of Crystal-MD program on Tianhe-2 supercomputer | Kai Zhang | University of Science and Technology Beijing |
-| 11:35 - 12:00 | Presentation 6: Research on Large Scale Parallel Hydrological Simulation	| Genshen Chu | University of Science and Technology Beijing |
+| 10:20 - 10:45	| Diffusion mechanism of small Helium-vacancy clusters in BCC Fe and Fe-10%Cr alloy                 | Xinfu He | China Institute of Atomic Energy |
+| 10:45 -11:10	| Effect of Ni and Mn on the Interaction of an Edge Dislocation with Cu-rich Precipitates in Bcc Fe	| Dongjie Wang | China Institute of Atomic Energy |
+| 11:10 - 11:35	| The performance test and optimization of Crystal-MD program on Tianhe-2 supercomputer | Kai Zhang | University of Science and Technology Beijing |
+| 11:35 - 12:00 | Research on Large Scale Parallel Hydrological Simulation	| Genshen Chu | University of Science and Technology Beijing |
 | 12:00 - 13:30	| **Lunch**   |
-| 13:30 - 13:55	| Presentation 7: The Parallelization Study of SWAT Hydrology Cycle	        | Qiang Li     | Qingdao University |
-| 13:55 - 14:20	| Presentation 8: Hourly Day-ahead Power Forecasting for PV Plant based on Bidirectional LSTM | Hui He | North China Electric Power University |
-| 14:20 - 14:45	| Presentation 9: Topology Layout Technology of Energy Internet	            | Boyao Zhang  |Chiese Academy of Sciences |
-| 14:45 - 15:10	| Presentation 10: A Reliability task scheduling for High-Throughput Computing Platform	| Weipeng Jing | Northeast Forestry University |
+| 13:30 - 13:55	| he Parallelization Study of SWAT Hydrology Cycle	        | Qiang Li     | Qingdao University |
+| 13:55 - 14:20	| Hourly Day-ahead Power Forecasting for PV Plant based on Bidirectional LSTM | Hui He | North China Electric Power University |
+| 14:45 - 15:10	| A Reliability task scheduling for High-Throughput Computing Platform	| Ruipeng Zhang | Northeast Forestry University |
+| 14:20 - 14:45	| Topology Layout Technology of Energy Internet	            | Boyao Zhang  |Chiese Academy of Sciences |
 <br>
 
 ### Organizers [¶](#organizers)
