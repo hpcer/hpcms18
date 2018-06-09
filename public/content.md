@@ -75,15 +75,15 @@ Venue: **Room 303, Beijing International Convention Center No.8 Beichen Dong Roa
 | 9:05 - 9:35   | Prospects for CVR-0: A Prototype of China Advanced Virtual Reactor     | An Wang      | University of Science and Technology Beijing |
 | 9:35 - 10:05	| Virtual Reactors towards the ‘Exascale’ Supercomputing Era	         | Xianmeng Wang| University of Science and Technology Beijing |
 | 10:05 - 10:20	| **Break**    |
-| 10:20 - 10:45	| Diffusion mechanism of small Helium-vacancy clusters in BCC Fe and Fe-10%Cr alloy                 | Xinfu He | China Institute of Atomic Energy |
-| 10:45 -11:10	| Effect of Ni and Mn on the Interaction of an Edge Dislocation with Cu-rich Precipitates in Bcc Fe	| Dongjie Wang | China Institute of Atomic Energy |
-| 11:10 - 11:35	| The performance test and optimization of Crystal-MD program on Tianhe-2 supercomputer | Kai Zhang | University of Science and Technology Beijing |
-| 11:35 - 12:00 | Research on Large Scale Parallel Hydrological Simulation	| Genshen Chu | University of Science and Technology Beijing |
-| 12:00 - 13:30	| **Lunch**   |
-| 13:30 - 13:55	| he Parallelization Study of SWAT Hydrology Cycle	        | Qiang Li     | Qingdao University |
-| 13:55 - 14:20	| Hourly Day-ahead Power Forecasting for PV Plant based on Bidirectional LSTM | Hui He | North China Electric Power University |
-| 14:45 - 15:10	| A Reliability task scheduling for High-Throughput Computing Platform	| Ruipeng Zhang | Northeast Forestry University |
-| 14:20 - 14:45	| Topology Layout Technology of Energy Internet	            | Boyao Zhang  |Chiese Academy of Sciences |
+| 10:20 - 10:40	| Diffusion mechanism of small Helium-vacancy clusters in BCC Fe and Fe-10%Cr alloy                 | Xinfu He | China Institute of Atomic Energy |
+| 10:40 -11:00	| Effect of Ni and Mn on the Interaction of an Edge Dislocation with Cu-rich Precipitates in Bcc Fe	| Dongjie Wang | China Institute of Atomic Energy |
+| 11:00 - 11:20	| The performance test and optimization of Crystal-MD program on Tianhe-2 supercomputer | Kai Zhang | University of Science and Technology Beijing |
+| 11:20 - 11:40 | Research on Large Scale Parallel Hydrological Simulation	| Genshen Chu | University of Science and Technology Beijing |
+| 11:40 - 12:00	| The Parallelization Study of SWAT Hydrology Cycle	        | Qiang Li     | Qingdao University |
+| 12:00 - 12:20	| Hourly Day-ahead Power Forecasting for PV Plant based on Bidirectional LSTM | Hui He | North China Electric Power University |
+| 12:25 - 13:25	| **Lunch**   |
+| 13:25 - 13:50	| A Reliability task scheduling for High-Throughput Computing Platform	| Ruipeng Zhang | Northeast Forestry University |
+| 13:50 - 14:15	| Topology Layout Technology of Energy Internet	            | Boyao Zhang  |Chiese Academy of Sciences |
 <br>
 
 ### Organizers [¶](#organizers)
