@@ -50,19 +50,23 @@ Camera ready papers due: **May 1, 2018**
 Workshop date: **June 12, 2018**
 
 ### Publication [¶](#publication)
-Your full paper(in PDF or doc format) is required to be submitted via the conference system EasyChair: **[https://easychair.org/conferences/?conf=hpcms2018](https://easychair.org/conferences/?conf=hpcms2018)**. Papers must be written in English.
+The CFP is closed.
 
-It is planned to publish the proceedings with Springer in their Communications in Computer and Information Science series (final approval pending).
+It is planned to publish the proceedings with Springer in their **Communications in Computer and Information Science  (CCIS)** series.
+
+![logo_image](./springer/Springer.jpg)
+![logo_image](./springer/CCIS_logo.jpg)
 
 More information on CCIS can be found here: [http://www.springer.com/series/7899](http://www.springer.com/series/7899) and [http://www.springer.com/computer/lncs](http://www.springer.com/computer/lncs).
 Springer conference paper templates can be find in the author’s instruction page: [http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
+
+The CCIS Consent to Publish form (Singapore version) can be found at:
+[CtP_CCIS_Singapore](./springer/CtP_CCIS_Singapore.pdf).
 
 Regular Page Limit: 12 to 15 pages in the LNCS/CCIS one-column page format.   
 Short Page Limit: 6 to 8 pages in CCIS format.  
 Submitting a full paper is not mandatory but is **highly recommended**.
 
-The best papers are invited to submit extended version in **International Journal of High Performance Computing Applications** (IF2016: 2.097) or
-**Cluster Computing (IF2016: 2.040)** indexed in SCI.
 
 ### Workshop Program [¶](#program)
 Date: **June 12, 2018**
