@@ -69,7 +69,7 @@ Submitting a full paper is not mandatory but is **highly recommended**.
 
 **Update on Sep 6, 2019**:  
 The proceedings have been published with Springer in their "Communications in Computer and Information Science  (CCIS)" series.  
-See https://link.springer.com/book/10.1007/978-981-32-9987-0 for more details.
+See [https://link.springer.com/book/10.1007/978-981-32-9987-0](https://link.springer.com/book/10.1007/978-981-32-9987-0) for more details.
 
 ### Workshop Program [¶](#program)
 Date: **June 12, 2018**
