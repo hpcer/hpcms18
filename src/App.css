@@ -40,6 +40,9 @@
 .markdown-render .table-responsive{
   overflow-x: auto;
 }
+.markdown-render img[alt="logo_image"] {
+  max-height:  80px;
+}
 /* end markdown */
 
 #page article {

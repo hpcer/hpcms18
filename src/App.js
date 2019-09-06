@@ -13,14 +13,16 @@ class App extends Component {
     this.state = {
       markdown: '# Loading...',
       error: null,
-      isLoaded: false
+      isLoaded: false,
+      menu_toggle: false
     };
+    this.toggleMenu = this.toggleMenu.bind(this);
   }
   componentDidMount() {
     fetch(md_source)
     .then(res => res.text())
     .then((result) => {
-        console.log(result)
+        // console.log(result)
         var markdown = result;
         this.setState({
           markdown: markdown
@@ -36,6 +38,11 @@ class App extends Component {
         });
       }
     )
+  }
+  toggleMenu () {
+    this.setState({
+      menu_toggle: !this.state.menu_toggle
+    });
   }
   getMarked() {
     var rawMarkup = new Markdown({html:true}).render(this.state.markdown);
@@ -59,10 +66,11 @@ class App extends Component {
               <div className="top-heading" id="heading-narrow">
                 <a href="/">HPCMS2018</a>
               </div>
-              <a href="#" id="menu-button">
-                <span id="menu-button-arrow">&#9661;</span>
+              <a href="#" id="menu-button" onClick={ this.toggleMenu } >
+                <span id="menu-button-arrow"
+                className= { this.state.menu_toggle ? "vertical-flip" : "" }>&#9661;</span>
               </a>
-              <div id="menu">
+              <div id="menu" className= { this.state.menu_toggle ? "menu-visible" : "" }>
                 <a href="#">Home</a>
                 <a href="#topics">Topics</a>
                 <a href="#organizers">Organizers</a>
