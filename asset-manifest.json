@@ -1,8 +1,17 @@
 {
-  "main.css": "static/css/main.27dc2973.css",
-  "main.css.map": "static/css/main.27dc2973.css.map",
-  "main.js": "static/js/main.b9ca87df.js",
-  "main.js.map": "static/js/main.b9ca87df.js.map",
-  "static/media/hpcms2018_header.png": "static/media/hpcms2018_header.be98812a.png",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "files": {
+    "main.css": "/static/css/main.d7ee456a.chunk.css",
+    "main.js": "/static/js/main.534b5bb4.chunk.js",
+    "main.js.map": "/static/js/main.534b5bb4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.ef2a162e.js",
+    "runtime~main.js.map": "/static/js/runtime~main.ef2a162e.js.map",
+    "static/js/2.968c06fd.chunk.js": "/static/js/2.968c06fd.chunk.js",
+    "static/js/2.968c06fd.chunk.js.map": "/static/js/2.968c06fd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2f68c2899d9550b8e75a27e42f403ee6.js": "/precache-manifest.2f68c2899d9550b8e75a27e42f403ee6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d7ee456a.chunk.css.map": "/static/css/main.d7ee456a.chunk.css.map",
+    "static/media/App.css": "/static/media/hpcms2018_header.be98812a.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  }
 }
