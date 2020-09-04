@@ -88,7 +88,7 @@ Venue: **Room 303, Beijing International Convention Center No.8 Beichen Dong Roa
 | 11:20 - 11:40 | Research on Large Scale Parallel Hydrological Simulation	| Genshen Chu | University of Science and Technology Beijing |
 | 11:40 - 12:00	| The Parallelization Study of SWAT Hydrology Cycle	        | Qiang Li     | Qingdao University |
 | 12:00 - 12:20	| Hourly Day-ahead Power Forecasting for PV Plant based on Bidirectional LSTM | Hui He | North China Electric Power University |
-| 12:25 - 13:25	| **Lunch**   |
+| 12:25 - 13:25	| **Launch**   |
 | 13:25 - 13:50	| A Reliability task scheduling for High-Throughput Computing Platform	| Ruipeng Zhang | Northeast Forestry University |
 | 13:50 - 14:15	| Topology Layout Technology of Energy Internet	            | Boyao Zhang  |Chiese Academy of Sciences |
 <br>
@@ -154,4 +154,3 @@ Xiaofei Zhang, Hong Kong University of Science and Technology, Hong Kong.
 
 #### Organizing committee members:
 Jue Wang, Computer Network Information Center of Chinese Academy of Sciences, China.
-                       
